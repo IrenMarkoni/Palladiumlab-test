@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Gilroy-ExtraBold";
+  src: url("Gilroy-ExtraBold.eot");
+  src: local("Gilroy-ExtraBold"), local("Gilroy-ExtraBold"),
+    url("Gilroy-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("Gilroy-ExtraBold.woff") format("woff"),
+    url("Gilroy-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat", sans-serif;
+  src: url("Montserrat-Regular.eot");
+  src: local("Montserrat-Regular"), local("Montserrat-Regular"),
+    url("Montserrat-Regular.eot?#iefix") format("embedded-opentype"),
+    url("Montserrat-Regular.woff") format("woff"),
+    url("Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat", sans-serif;
+  src: url("Montserrat-Medium.eot");
+  src: local("Montserrat-Medium"), local("Montserrat-Medium"),
+    url("Montserrat-Medium.eot?#iefix") format("embedded-opentype"),
+    url("Montserrat-Medium.woff") format("woff"),
+    url("Montserrat-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
